@@ -1,0 +1,2 @@
+Notas de atualização 22/02/2021:
+Foi introduzido o sistema de linguagens múltiplos. Por enquanto somente as línguas português e inglês disponíveis!
